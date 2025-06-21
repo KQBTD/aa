@@ -1,4 +1,4 @@
-Executable,SID,Severity
+Executable,Account Type,Severity
 at.exe,LocalSystem,Medium
 at.exe,NetworkService,High
 at.exe,Administrator,Medium
