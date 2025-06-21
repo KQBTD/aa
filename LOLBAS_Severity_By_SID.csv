@@ -199,7 +199,7 @@ xwizard.exe,LocalSystem,Medium
 xwizard.exe,NetworkService,High
 xwizard.exe,Administrator,Medium
 xwizard.exe,LocalUser,High
-xwizard.exe,Guest,High
+xwizard.exe,Guest,Medium
 xwizard.exe,Everyone,High
 xwizard.exe,Unknown,High
 scriptrunner.exe,LocalSystem,Medium
@@ -387,7 +387,7 @@ where.exe,Unknown,High
 addinutil.exe,LocalSystem,Medium
 addinutil.exe,NetworkService,High
 addinutil.exe,Administrator,Medium
-addinutil.exe,LocalUser,High
+addinutil.exe,LocalUser,Medium
 addinutil.exe,Guest,High
 addinutil.exe,Everyone,High
 addinutil.exe,Unknown,High
@@ -695,7 +695,7 @@ offlinescannershell.exe,Unknown,High
 onedrivestandaloneupdater.exe,LocalSystem,Medium
 onedrivestandaloneupdater.exe,NetworkService,High
 onedrivestandaloneupdater.exe,Administrator,Medium
-onedrivestandaloneupdater.exe,LocalUser,High
+onedrivestandaloneupdater.exe,LocalUser,Medium
 onedrivestandaloneupdater.exe,Guest,High
 onedrivestandaloneupdater.exe,Everyone,High
 onedrivestandaloneupdater.exe,Unknown,High
